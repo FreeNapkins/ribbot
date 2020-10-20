@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const bot = new Discord.Client()
 
-const token = 'NzEwNTY2NDY5NDMxMTk3ODY2.Xr2Ydw.4o6mI6VHTqVK5-mzX3Dev1APq4Q'
+const token = ''
 var userProfiles = [] // stores all profiles
 let userIndex = 0
 const PREFIX = '>'
